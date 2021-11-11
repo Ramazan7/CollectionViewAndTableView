@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F3179EE8273D17C4004CB848 /* FreelancerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3179EE7273D17C4004CB848 /* FreelancerCell.swift */; };
 		F3D21C632738310F0068B57B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D21C622738310F0068B57B /* AppDelegate.swift */; };
 		F3D21C652738310F0068B57B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D21C642738310F0068B57B /* SceneDelegate.swift */; };
 		F3D21C672738310F0068B57B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D21C662738310F0068B57B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F3179EE7273D17C4004CB848 /* FreelancerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreelancerCell.swift; sourceTree = "<group>"; };
 		F3D21C5F2738310F0068B57B /* CollectionViewAndTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewAndTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3D21C622738310F0068B57B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3D21C642738310F0068B57B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F3D21C622738310F0068B57B /* AppDelegate.swift */,
 				F3D21C642738310F0068B57B /* SceneDelegate.swift */,
 				F3D21C662738310F0068B57B /* ViewController.swift */,
+				F3179EE7273D17C4004CB848 /* FreelancerCell.swift */,
 				F3D21C682738310F0068B57B /* Main.storyboard */,
 				F3D21C6B273831110068B57B /* Assets.xcassets */,
 				F3D21C6D273831110068B57B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3D21C672738310F0068B57B /* ViewController.swift in Sources */,
+				F3179EE8273D17C4004CB848 /* FreelancerCell.swift in Sources */,
 				F3D21C632738310F0068B57B /* AppDelegate.swift in Sources */,
 				F3D21C652738310F0068B57B /* SceneDelegate.swift in Sources */,
 			);
